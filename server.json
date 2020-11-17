@@ -1,0 +1,177 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "installments": null,
+      "name": "Ferro de passar 110V",
+      "picture": "https://www.extra-imagens.com.br/html/conteudo-produto/73/2633/images/Ferro-a-Seco-Black&Decker-VFA.png",
+      "offer": {
+        "type": "offer",
+        "label": "Oferta",
+        "value": 26
+      },
+      "price": {
+        "to": {
+          "integers": "1.699",
+          "decimals": "00"
+        },
+        "from": {
+          "integers": "2.319",
+          "decimals": "00"
+        }
+      },
+      "tag": {
+        "type": "exclusive",
+        "label": "Exclusivo on-line"
+      },
+      "unit": "cada"
+    },
+    {
+      "id": 2,
+      "installments": null,
+      "name": "Frigideira de Ferro",
+      "picture": "https://1965.cdn.simplo7.net/static/1965/sku/frigideira-de-ferro-fundido-panela-de-ferro-para-cooktop-de-inducao-frigideira-de-ferro-cabo-de-ferro-29-cm-diametro-assadeira-de-ferro-1518106544409.jpg",
+      "price": {
+        "to": {
+          "integers": "64",
+          "decimals": "90"
+        },
+        "from": null
+      },
+      "offer": null,
+      "tag": null,
+      "unit": "cada"
+    },
+    {
+      "id":3 ,
+      "installments": null,
+      "name": "Furadeira Bosh",
+      "picture": "https://casaevideodigital.vteximg.com.br/arquivos/ids/194308-292-292/Furadeira-de-Impacto-450W-3-8--Bosch-GSB-450-RE-STD-127V-1608444.jpg?v=636810259986130000",
+      "offer": null,
+      "price": {
+        "to": {
+          "integers": "123",
+          "decimals": "90"
+        },
+        "from": null
+      },
+      "unit": "cada",
+      "tag": null
+    },
+    {
+      "id": 4,
+      "name": "Furadeira Amarela 220V",
+      "picture": "https://images-na.ssl-images-amazon.com/images/I/61XT29xYCKL._AC_SX522_.jpg",
+      "installments": {
+        "amount": 8,
+        "value": "193,74"
+      },
+      "price": {
+        "to": {
+          "integers": "1.549",
+          "decimals": "90"
+        },
+        "from": {
+          "integers": "1.849",
+          "decimals": "90"
+        }
+      },
+      "unit": "cada",
+      "tag": null,
+      "offer": {
+        "type": "offer",
+        "label": "Oferta",
+        "value": 16
+      }
+    },
+    {
+      "id": 5,
+      "name": "Jogo de Ferramentas 110 peças",
+      "picture": "https://m.media-amazon.com/images/I/61uh8g9TE2L._AC_SY355_.jpg",
+      "installments": null,
+      "price": {
+        "to": {
+          "integers": "99",
+          "decimals": "00"
+        },
+        "from": {
+          "integers": "129",
+          "decimals": "00"
+        }
+      },
+      "unit": "cada",
+      "tag": null,
+      "offer": {
+        "type": "offer",
+        "label": "Oferta",
+        "value": 23
+      }
+    },
+    {
+      "id": 6,
+      "installments": null,
+      "name": "Martelo cabo de madeira",
+      "picture": "https://img.lojadomecanico.com.br/IMAGENS/2/253/108333/Martelo-de-Unha-com-Cabo-de-Madeira-18mm-tramontina-40200018-1.JPG",
+      "price": {
+        "to": {
+          "integers": "469",
+          "decimals": "00"
+        },
+        "from": null
+      },
+      "unit": "cada",
+      "tag": {
+        "type": "exclusive",
+        "label": "Exclusivo on-line"
+      },
+      "offer": null
+    },
+    {
+      "id": 7,
+      "name": "Lampada de led",
+      "picture": "https://a-static.mlcdn.com.br/618x463/lampada-led-bulbo-12w-3000k-skywind/mundoleds/48735/6d3167a6a674fd3ced760f9d1f59102b.jpg",
+      "price": {
+        "to": {
+          "integers": "169",
+          "decimals": "90"
+        },
+        "from": null
+      },
+      "unit": "cada",
+      "installments": null,
+      "tag": null,
+      "offer": null
+    },
+    {
+      "id": 8,
+      "name": "Furadeira de Impacto Makita 220V",
+      "picture": "https://i.zst.com.br/images/furadeira-impacto-1-2-680w-makita-hp1640-photo33628732-12-38-3c.jpg",
+      "price": {
+        "to": {
+          "integers": "965",
+          "decimals": "90"
+        },
+        "from": null
+      },
+      "unit": "cada",
+      "installments": {
+        "amount": 8,
+        "value": "120,74"
+      },
+      "tag": null,
+      "offer": null
+    }
+  ],
+  "freight": [
+    {
+      "id": 1,
+      "freight": "10.00",
+      "location": "Guaraci"
+    },
+    {
+      "id": 2,
+      "freight": "10.00",
+      "location": "São Paulo"
+    }
+  ]
+}
