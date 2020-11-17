@@ -2,11 +2,10 @@ Shopping Cart
 
 Simple shopping cart developed with React, without boilerplate, to use the concepts of React and Context API.
 
-
-[] Webpack
-[] Context API for state management
-[] Persistence of products in the browser localstorage
-[] Tests with Jest and React Testing Library
+- Webpack
+- Context API for state management
+- Persistence of products in the browser localstorage
+- Tests with Jest and React Testing Library
 
 ```
 git clone
