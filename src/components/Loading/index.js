@@ -2,7 +2,6 @@ import React from "react";
 import Lottie from "lottie-react-web";
 
 import loadingData from "~/assets/animation/load.json";
-import logo from "~/assets/images/logo.svg";
 
 import { Container } from "./styles";
 
