@@ -60,7 +60,7 @@ module.exports = {
       ignoreOrder: false,
     }),
     new HtmlWebPackPlugin({
-      template: "./src/index.html",
+      template: "./public/index.html",
       filename: "./index.html",
     }),
   ],
