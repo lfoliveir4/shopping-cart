@@ -1,4 +1,4 @@
-Shopping Cart
+## Shopping Cart
 
 Simple shopping cart developed with React, without boilerplate, to use the concepts of React and Context API.
 
